@@ -1,0 +1,2 @@
+# FWT01
+USE ESP IDF v5.3.1

@@ -1,0 +1,18 @@
+# Build
+build
+build_
+
+# ESP-IDF
+managed_components
+
+# VSCode
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binary
+.bin
+.elf
+.map
